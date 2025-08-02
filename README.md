@@ -1,2 +1,5 @@
 # Fish-Photarium
 3D print your own photarium!
+
+This model features a tapered bottom, a ruler in cm, and an inset for 1/8" thick acrylic or glass. 
+After printing, use silicone sealant to attach 171 mm x 86 mm acrylic or glass sheet.
